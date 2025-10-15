@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kotchakorn</h1>
-<h3 align="center">Passionate about crafting intuitive user experiences and beautiful web interfaces.</h3>
+<h1 align="center">Hi 👋, I’m Kotchakorn — a Computer Science student at Chiang Mai University</h1>
 
 - 📫 How to reach me **kotchakorntantrakool@gmail.com**
 
