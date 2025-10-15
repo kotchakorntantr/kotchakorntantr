@@ -3,7 +3,7 @@
 ## 💼 Personal Info
 
 - **Name:** Kotchakorn Tantrakool  
-- **Education:** B.Sc. in Computer Science, Chiang Mai University  
+- **Education:** B.S. in Computer Science, Chiang Mai University  
 - **Minor:** Business Administration  
 - **Interests:** Frontend Development, UI/UX Design, Web Applications, Data Science  
 
