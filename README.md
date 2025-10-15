@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://cmu.to/kotchakorntantrresume](https://cmu.to/kotchakorntantrresume)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
