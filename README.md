@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I’m Kotchakorn — a Computer Science student at Chiang Mai University</h1>
 ## 💼 Personal Info
+
 - **Name:** Kotchakorn Tantrakool  
 - **Education:** B.Sc. in Computer Science, Chiang Mai University  
 - **Minor:** Business Administration  
