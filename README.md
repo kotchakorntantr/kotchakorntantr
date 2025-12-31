@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kotchakorntantrakool@gmail.com**
 
-- 📄 Know about my experiences [https://cmu.to/kotchakorntantrresume](https://cmu.to/kotchakorntantrresume)
+- 📄 Know about my experiences https://cmu.to/Kotchakornresume
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
