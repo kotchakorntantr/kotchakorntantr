@@ -5,7 +5,7 @@
 - **Name:** Kotchakorn Tantrakool  
 - **Education:** B.S. in Computer Science, Chiang Mai University  
 - **Minor:** Business Administration  
-- **Interests:** Frontend Development, UI/UX Design, Web Applications, Data Science  
+- **Career Interests:** Software Engineer (Frontend, Backend, Full-stack), Business Analyst, Data Science  
 
 - 📫 How to reach me **kotchakorntantrakool@gmail.com**
 
