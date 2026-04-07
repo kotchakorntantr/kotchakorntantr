@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Kotchakorn — a Computer Science student at Chiang Mai University</h1>
+<h1 align="center">Hi 👋, I’m Kotchakorn — A recent Computer Science graduate with a minor in Business Administration at Chiang Mai University</h1>
 
 ## Personal Info
 
